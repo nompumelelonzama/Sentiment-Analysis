@@ -41,4 +41,3 @@ Sentient AI is an advanced sentiment analysis platform that uses AI to interpret
 
 **Key Finding:** 65.97% negative sentiment detected - immediate action recommended
 
-## 📁 Project Structure
