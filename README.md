@@ -27,7 +27,7 @@ Sentient AI is an advanced sentiment analysis platform that uses AI to interpret
 
 ## 🚀 Live Demo
 
-[https://sentiment.streamlit.app](https://sentiment.streamlit.app)](https://sentiment-analysis-bsgbnah5ezqzz9bkgvtbuc.streamlit.app/)
+(https://sentiment.streamlit.app)](https://sentiment-analysis-bsgbnah5ezqzz9bkgvtbuc.streamlit.app/)
 
 ## 📊 Sample Results
 
